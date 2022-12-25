@@ -5,8 +5,9 @@ body {
     background-color:  hsl(204, 43%, 93%);
     font-family: 'Karla', sans-serif;
     font-size: 16px;
-    text-align: left;
-    padding: 50px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 12.5%;
 }
 
 h1 {
@@ -27,6 +28,7 @@ h3 {
     padding: 50px;
     text-align: left;
     width: 80%;
+    line-height: 1.5;
 }
 
 #subscription {
