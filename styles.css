@@ -75,3 +75,7 @@ button {
     font-size: 16px;
 
 }
+
+button:hover {
+    background-color: hsla(179, 62%, 43%, 90%);
+}
